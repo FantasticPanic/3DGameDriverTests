@@ -1,0 +1,402 @@
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 205 bytes -> 223 bytes
+Waiting for requestId: b3c677b0-62c4-46ef-a609-0dbb2f08a13b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 365 bytes -> 325 bytes
+Waiting for requestId: b1bbfd74-2b20-4045-8cb2-a423b4d45f64
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 331 bytes -> 325 bytes
+Waiting for requestId: e4b8c2da-772e-405e-9214-ee39e11435f1
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: c6647884-c9ec-435c-980e-5ce775c6ad85
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: c98a5aa9-0a62-4c86-ad83-f20b3ec80b0a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 8e0c329b-364a-480c-8158-6773d681c0c4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 431 bytes
+Waiting for requestId: 47ee7b50-73cf-4074-bdb5-e868a0cb14bd
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: a90f6f75-0427-4cd6-8c6d-ce3a73576da4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 242 bytes
+Waiting for requestId: ac60d90d-9f85-484b-be76-02be3c9be3f6
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 825ac2ba-7251-4815-a545-1ec449d8e111
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 458 bytes
+Waiting for requestId: fd210fb5-5ee6-46f7-8088-0fe47a115500
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 436 bytes
+Waiting for requestId: 4910b6cb-66da-40e3-bb90-434cf7918443
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 249 bytes
+Waiting for requestId: 0dacd50d-7a53-4a4e-ab8a-7a643c452b6a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: ca92ed5b-9492-4f7e-90eb-ab3059f3f465
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: ac6088ef-c784-43f4-8e21-3fc2994195c0
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 459 bytes
+Waiting for requestId: cdc5d0d7-b1a7-47f6-bd52-40935258df99
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 430 bytes
+Waiting for requestId: a4a5254f-a86d-4956-bb6d-568872b50302
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: abd80634-30fe-433b-95c2-50639f67df66
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: cae303c6-59f7-47ea-9223-00f6253cf8cc
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: a92975c4-e266-40aa-995d-b30272dde8cf
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 460 bytes
+Waiting for requestId: 9f074a24-a937-4e6c-aa1b-8ac7b368f85b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 429 bytes
+Waiting for requestId: c1ddb6fc-4dc7-447b-968d-f492ab200cb6
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 254 bytes
+Waiting for requestId: 814b662c-9d3b-4d85-8dec-620eab0f8f64
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 8b5c4069-79c1-4874-ad4b-226b51b4ae39
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 199ca78f-046d-4a7c-8c2d-93dadab170ab
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 454 bytes
+Waiting for requestId: 59687124-ba10-4319-89e5-60ea19012ed8
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 426 bytes
+Waiting for requestId: 9f719db5-475a-413a-b7a5-8cd497557015
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 254 bytes
+Waiting for requestId: f36072a5-bc49-4dff-b28c-c708ff26184f
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 242 bytes
+Waiting for requestId: 83a70ce0-4f12-4dae-8bbf-a44d59bbb5f0
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 242 bytes
+Waiting for requestId: fad0c882-2ce3-4997-88ac-e5737204865d
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 453 bytes
+Waiting for requestId: 48f07959-d446-4724-849e-344fd97c02fd
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 424 bytes
+Waiting for requestId: 4d5ad84b-a3c4-4d8d-a4cc-781850b8f2a2
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 257 bytes
+Waiting for requestId: 41d60dd0-0d58-4e5b-b7ff-e6805998c168
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 9ba46220-d08f-4052-8ff0-b2b433e57521
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 4df293f6-e450-436f-a36a-086064c05e39
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 458 bytes
+Waiting for requestId: 2322b439-bd0a-4f9d-9053-9e5a669040a9
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 429 bytes
+Waiting for requestId: c09bb00b-a4fd-4671-8d55-ef3ae73c963f
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 95016f2f-ce46-4fd0-b6c3-ebb252d80b71
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: bc3f8d0e-d0a8-4b45-bbe3-2d0feb9e6f91
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: fee6b2b3-b74f-494a-a68c-b7e76a78a05b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 453 bytes
+Waiting for requestId: e1d13de5-98d9-4485-bb85-edf4c32e84d1
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 427 bytes
+Waiting for requestId: 3ac20d01-0ed5-4c5d-bed3-c36543021ae9
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: b1de0d89-17a8-40ad-b225-57a1331cb05c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: b3776eaa-b18b-4281-9880-13e1120fc597
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 241 bytes
+Waiting for requestId: 311669e3-3770-4638-a770-99e62565a9f4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 452 bytes
+Waiting for requestId: 1414c03c-be16-4275-8237-e394224d28b1
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 428 bytes
+Waiting for requestId: 8d541d01-bf31-4bfc-ba3c-a22ac1c9dcad
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: ba0257a2-fcef-4a29-82d9-808d57c3fe89
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: de4e43c0-fb6e-4d30-b494-6759b65d958c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: d2f2649e-6830-4de4-94c0-6238cb650435
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 455 bytes
+Waiting for requestId: d68a4bb0-dfda-4414-ae9f-1af8da1b81a9
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 427 bytes
+Waiting for requestId: 123b6f00-baef-4bf1-ac79-3f9c05b86bbc
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 255 bytes
+Waiting for requestId: 8c3829d3-15dd-411d-bbcd-58123fb0c825
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 2d359086-6dff-4c2e-b5ae-09645f43a59a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 22bd1c8c-e584-4c75-bb90-ff826363c346
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: b610a906-3215-4bff-a08a-f0a6009bf031
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 428 bytes
+Waiting for requestId: f1a56fde-35f9-4dc8-a1c8-4fe7c94aff62
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 98d199b3-9487-458c-ad4d-4ae46b225b1d
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: e6f2eadd-db4c-4124-b463-a861d1a9c22b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 49ddfbeb-a0e8-42da-883f-9923b6f9d43e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 6b4288c0-2d60-439d-9e3f-a71a17c65dd3
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 433 bytes
+Waiting for requestId: 25f500ae-e665-400a-8a25-642d9a14ab3e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: f368ac1e-7ece-4e67-9fe4-40ee0cf15e5b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: d36ae0a2-9f50-4fe0-b312-801ff2800756
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 3cd083cf-9087-4972-aea3-a06bd98dc666
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 458 bytes
+Waiting for requestId: 54276910-4335-4859-ab4f-416357138a58
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 429 bytes
+Waiting for requestId: d8b5b7ce-82ef-466b-a753-67857005dff4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 8c2f8bcb-bf39-4e37-adad-94af311319fb
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: b97f99cb-ba2c-436c-b1ea-fb1a6c689617
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 43470bca-bea2-4e89-8c06-1e36747d58a8
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 7ae766a2-ceb8-42ad-b600-fd166421ce7c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 430 bytes
+Waiting for requestId: c9b9a4a0-b7dd-4ad4-a0fa-744d2466f2b8
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 252 bytes
+Waiting for requestId: c952ec41-b2c9-462e-b20e-97de2d7a0e7e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 64fa4aca-85ac-4ee1-b8ea-48167e3e4140
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 0868258f-6c4e-41f9-971a-c6924c7b7793
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 02d4f623-6374-4ea7-85b3-21ee52cce8c4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 428 bytes
+Waiting for requestId: 79536a32-d91b-42f2-beae-9a6e451fd11e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 256 bytes
+Waiting for requestId: bac67213-cbd8-48c0-8977-e0c40f312c48
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 6254c9fb-bb2b-47c4-ae91-ee8507cd8582
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: efc6a29f-9303-40ea-a59e-79b6f494e869
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 251a63bd-d54d-4665-8057-28b14bd895ff
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 431 bytes
+Waiting for requestId: 2400f4f8-923c-4bdb-82e7-562cddad2ec4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 254 bytes
+Waiting for requestId: 00e54685-01ff-4cff-85e2-d71eaf9af69c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 242 bytes
+Waiting for requestId: 81777708-0076-4b28-baf3-5d1a646061f0
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 0531f314-7bcc-4076-b925-930027c8236a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 455 bytes
+Waiting for requestId: 1bfe01c6-0cb5-4cb5-8529-6d8b33d0b140
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 428 bytes
+Waiting for requestId: 8406d1ff-6c96-4fd7-aeb7-2e8d2af8e2a5
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 675ba637-314b-4c99-83c0-b340984e3112
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: f9ac7f92-3428-48f4-b2d3-f397b1dfa0c1
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 5a663bb6-3087-4de0-8f9e-ec720baa6d1c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: 1f42d33f-74ca-4323-8a8b-71e71367d3af
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 433 bytes
+Waiting for requestId: a7424c75-9288-4faa-9a59-b6080bc88f42
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 066b7bb3-ce8b-4dfb-8770-3f39c2388307
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 07b07f71-2977-4415-9acd-42649dbb118b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: e915d144-d299-4309-a62e-fa8d341ba0b9
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 7bd0840f-dbe3-4fb4-b07f-9eba4673a711
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 435 bytes
+Waiting for requestId: 3e738b45-0b75-4335-9df3-29c18afc869a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 251 bytes
+Waiting for requestId: 398871a3-3c6e-47cc-a9a7-009c97524003
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 22adf4e8-362f-445b-9381-16609e5b0f42
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 2d71c5a4-0278-4898-b799-64f9894235ad
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: 59641a3e-f55b-4c31-92f2-c27cc4a756cd
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 431 bytes
+Waiting for requestId: cb0eb850-80b5-4419-97b3-6b400e4545ec
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 254 bytes
+Waiting for requestId: 09c3bde1-1560-450a-97fb-e4e5acb31c5b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: b6c9f112-4871-491e-b4fa-0eb367cb6645
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 241 bytes
+Waiting for requestId: 658265b2-a558-4e69-af3f-21616bc1d7a9
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: ed4d0b63-2acb-4510-ab4a-15c1c4de2f09
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 430 bytes
+Waiting for requestId: 241730a2-196e-461d-9c82-07883418a9e4
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 254 bytes
+Waiting for requestId: 743c95bf-0e15-4048-b2fb-cd798acf4959
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 241 bytes
+Waiting for requestId: 2cd7460b-94a2-4ebe-9dee-992ce7594a9b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 0d56c24f-e3ee-4b49-ad14-ffd0be401584
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 458 bytes
+Waiting for requestId: 02652365-f8b0-4ca7-a358-75ed1a1e5a17
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 428 bytes
+Waiting for requestId: e55d8680-8a4d-4e2d-980c-c6785759458a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 256 bytes
+Waiting for requestId: a23fc15e-ac76-48fa-98b4-208193a9797f
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: e255bf41-59a9-4bc9-a282-c0e48393e56a
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 0a2401b3-856c-4c6a-bb08-8cbcd2480b74
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 456 bytes
+Waiting for requestId: d0e7b985-b4ce-4bde-a65f-98dc0e94b4d6
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 432 bytes
+Waiting for requestId: aa4693c2-2100-4630-b6e1-89ccf7ec2946
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 255 bytes
+Waiting for requestId: 8c2e6e11-8622-4c71-b265-f09a11eb2b1b
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 74fb7c3c-b8e6-4842-82e4-2d55eac382b7
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 146286ff-6da8-48db-abcd-a937ee458c35
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: 0289aa4b-299e-4b29-86ee-adc0260ab4e3
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 432 bytes
+Waiting for requestId: 46ce40d9-20d0-4867-beca-d712fb7c1098
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 253 bytes
+Waiting for requestId: 95ffa0e9-6ca6-4fce-9042-122ac1e61fa3
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: 7e6630c9-de7b-4664-94b0-366a6235b826
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 241 bytes
+Waiting for requestId: 302c9ca6-c77f-4ace-a8a6-e83938600b0c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: 904ec6a2-e60b-4d25-947a-0f6e83f3bdf0
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 435 bytes
+Waiting for requestId: 72172fba-4d33-42f4-888c-9099939a342e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 255 bytes
+Waiting for requestId: d6990315-6148-4e1f-8266-f26e8532ca99
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 243 bytes
+Waiting for requestId: 0a40a2f1-07f8-4413-aed2-5443f0d678d3
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 235 bytes -> 244 bytes
+Waiting for requestId: d75b615e-e8d6-4fbf-acb5-6f24cc63069e
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 508 bytes -> 457 bytes
+Waiting for requestId: 7cfcc6fd-0141-4892-a919-8d51d7641b0c
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 489 bytes -> 431 bytes
+Waiting for requestId: 390e11a9-31cd-471d-9416-aefd2bea5027
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 252 bytes -> 256 bytes
+Waiting for requestId: 2587eab4-0c51-41bb-b365-b1ae19ecfec5
+*** WriteMessage() - IsInternalComms?: False
+Compressed message: 365 bytes -> 324 bytes
+Waiting for requestId: 9318bc82-0ee9-467a-8008-a1025fd54083
